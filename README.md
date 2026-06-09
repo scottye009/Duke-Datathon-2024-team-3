@@ -2,6 +2,10 @@
 
 Predicting ICU length of stay and assessing floor readiness for sepsis patients who underwent surgical interventions during their ICU admission.
 
+## Poster
+
+[View Poster (PDF)](Research%20symposium-%20Predictive%20Model%20of%20ICU%20Length-of-Stay%20Following%20Surgery%20for%20Soft%20Tissue%20Infection%20in%20Sepsis.pdf)
+
 ## Overview
 
 This project uses the MIMIC-IV clinical database to study sepsis patients in the ICU who required surgical procedures (amputation, debridement, or incision & drainage). We build predictive models for length of stay (LOS) and define a composite "floor readiness" metric to identify patients ready for ICU discharge.
